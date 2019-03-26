@@ -24,4 +24,5 @@ https://microcontrollerslab.com/esp32-built-in-hall-effect-sensor-with-arduino-i
 https://microcontrollerslab.com/esp32-web-server-arduino-led/
 10. Tutorial number 10: ESP32 PWM with Arduino IDE – LED fading example
 https://microcontrollerslab.com/esp32-pwm-arduino-ide-led-fading-example/
-
+11. Tutorial 11 : I2C LCD interfacing with ESP32
+https://microcontrollerslab.com/esp32-esp8266-i2c-lcd-interfacing/
