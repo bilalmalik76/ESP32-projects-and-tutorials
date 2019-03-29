@@ -26,3 +26,5 @@ https://microcontrollerslab.com/esp32-web-server-arduino-led/
 https://microcontrollerslab.com/esp32-pwm-arduino-ide-led-fading-example/
 11. Tutorial 11 : I2C LCD interfacing with ESP32
 https://microcontrollerslab.com/esp32-esp8266-i2c-lcd-interfacing/
+12. Tutorial 12: interface dht11 dht22 with esp32 and display values on web server
+https://microcontrollerslab.com/esp32-dht11-dht22-web-server/
