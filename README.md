@@ -28,3 +28,13 @@ https://microcontrollerslab.com/esp32-pwm-arduino-ide-led-fading-example/
 https://microcontrollerslab.com/esp32-esp8266-i2c-lcd-interfacing/
 12. Tutorial 12: interface dht11 dht22 with esp32 and display values on web server
 https://microcontrollerslab.com/esp32-dht11-dht22-web-server/
+13. Tutorial 13: ESP32 Password protected web server in Arduino IDE
+https://microcontrollerslab.com/esp32-password-protected-web-server-in-arduino-ide/
+14.Tutorial 14: Accessing ESP32 web server from anywhere in the world ( ESP8266 compatible)
+https://microcontrollerslab.com/accessing-esp32-web-server-anywhere-world-esp8266/
+15. Tutorial 15: ESP32 soft access point web server in Arduino IDE
+https://microcontrollerslab.com/esp32-soft-access-point-web-server-in-arduino-ide/
+16. Tutorial 16: ESP32 static/fix IP address
+https://microcontrollerslab.com/esp32-static-fix-ip-address/
+17. Tutorial 17: ESP32 Web Server Control Servo motor with Arduino IDE
+https://microcontrollerslab.com/esp32-servo-motor-web-server-arduino/
