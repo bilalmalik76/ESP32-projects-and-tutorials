@@ -38,11 +38,15 @@ https://microcontrollerslab.com/esp32-soft-access-point-web-server-in-arduino-id
 https://microcontrollerslab.com/esp32-static-fix-ip-address/
 17. Tutorial 17: ESP32 Web Server Control Servo motor with Arduino IDE
 https://microcontrollerslab.com/esp32-servo-motor-web-server-arduino/
+
 18. Tutorial 18: ESP32 BMP180 Web Server using Arduino IDE
 https://microcontrollerslab.com/esp32-bmp180-web-server-arduino-ide/
+
 19. Tutorial 19: ADS1115 I2C external ADC with ESP32 in Arduino IDE
 https://microcontrollerslab.com/ads1115-external-adc-with-esp32/
+
 20. Tutorial 20: LM35 Temperature Sensor with ESP32 – Web Server
 https://microcontrollerslab.com/lm35-temperature-sensor-with-esp32-web-server/
+
 21.Tuoorial 21: ESP32 web server control relay and 220 volt lamp
 https://microcontrollerslab.com/esp32-web-server-control-relay-220-volt-lamp/
